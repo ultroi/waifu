@@ -7,3 +7,4 @@ jikanpy
 requests
 random
 os
+telethn
